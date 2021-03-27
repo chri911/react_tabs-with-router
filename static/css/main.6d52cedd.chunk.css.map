@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,iBACE,eAAgB,CADlB,2BAII,wBAAyB,CACzB,UAAW","file":"main.6d52cedd.chunk.css","sourcesContent":[".tabs.is-boxed a {\n  margin-top: 20px;\n\n  &.is-active {\n    background-color: #3273dc;\n    color: #fff;\n  }\n}\n"]}
